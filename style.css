@@ -1,0 +1,10 @@
+body{
+    background-image: url("/ndsn.jpg");
+background-repeat:no-repeat ;
+background-size: contain;
+
+
+}
+.col{
+    opacity: 0.55;
+}
